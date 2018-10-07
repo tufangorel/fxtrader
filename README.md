@@ -23,4 +23,4 @@
  
 # Notes :
  - There is no main method in this project. 
- - There 2 main services and 2 test classes for this service classes. 
+ - There are 2 main services and 2 test classes for this service classes.
